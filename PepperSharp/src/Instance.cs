@@ -164,7 +164,7 @@ namespace PepperSharp
             return true;
         }
 
-        bool Init(int argc, string[] argn, string[] argv)
+        public virtual bool Init(int argc, string[] argn, string[] argv)
         {
 
             return OnInitialize(new InitializeEventArgs(argc, argn, argv));

@@ -257,3 +257,4 @@ ModelManifest.xml
 
 # User Data Directories created and used by Electron when started up
 **/user-data-dir
+GettingStarted/*

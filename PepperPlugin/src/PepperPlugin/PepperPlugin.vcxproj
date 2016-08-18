@@ -176,7 +176,7 @@
       </FunctionLevelLinking>
       <IntrinsicFunctions>true</IntrinsicFunctions>
       <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;_USRDLL;PepperPlugin_EXPORTS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
-      <AdditionalIncludeDirectories>..\PPApi;C:\Program Files %28x86%29\Mono\include\mono-2.0;..\..\..\..\nacl_sdk\pepper_canary\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>..\PPApi;C:\Program Files\Mono\include\mono-2.0;..\..\..\..\nacl_sdk\pepper_canary\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <CallingConvention>Cdecl</CallingConvention>
     </ClCompile>
     <Link>
